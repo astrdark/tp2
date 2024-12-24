@@ -3,4 +3,5 @@ project(tp_lab2)
 
 set(CMAKE_CXX_STANDARD 26)
 
-add_executable(tp_lab2 main.cpp)
+add_subdirectory(lab3)
+
