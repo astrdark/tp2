@@ -1,0 +1,1 @@
+add_executable(lab4_responsibility_chain main.cpp)

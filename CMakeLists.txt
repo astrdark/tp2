@@ -4,4 +4,4 @@ project(tp_lab2)
 set(CMAKE_CXX_STANDARD 26)
 
 add_subdirectory(lab3)
-
+add_subdirectory(lab4)

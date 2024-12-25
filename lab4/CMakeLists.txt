@@ -1,0 +1,3 @@
+add_subdirectory(strategy)
+add_subdirectory(responsibility_chain)
+add_subdirectory(iterator)
